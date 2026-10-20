@@ -1,0 +1,12 @@
+# 运行时产物
+archive.db
+日报-*.txt
+日报-*.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store

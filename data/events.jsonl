@@ -1,0 +1,12 @@
+{"message_id":1001,"time_str":"20261020 08:12","group_name":"班级通知群","sender_name":"班长","message":[{"type":"text","data":{"text":"明天上午9点开会，别迟到"}}]}
+{"message_id":1002,"time_str":"20261020 08:15","group_name":"班级通知群","sender_name":"学习委员","message":[{"type":"text","data":{"text":"周五前交实验报告，记得按模板写"}}]}
+{"message_id":1001,"time_str":"20261020 08:12","group_name":"班级通知群","sender_name":"班长","message":[{"type":"text","data":{"text":"明天上午9点开会，别迟到"}}]}
+{"message_id":1003,"time_str":"20261020 09:02","group_name":"福利拼单群","sender_name":"福利官","message":[{"type":"text","data":{"text":"秒杀活动最后一天，记得抢"}}]}
+{"message_id":1004,"time_str":"20261020 09:30","group_name":"实验室","sender_name":"王老师","message":[{"type":"text","data":{"text":"下周组会改到周四晚上，请确认时间"}}]}
+{"message_id":1005,"time_str":"20261020 10:05","group_name":"朋友圈","sender_name":"某同学","message":[{"type":"image","data":{"file":"a.png"}}]}
+{"message_id":1006,"time_str":"20261020 10:40","group_name":"CUPT 讨论组","sender_name":"队友","message":[{"type":"text","data":{"text":"对了，报名表我填完了，你确认一下"}}]}
+{"message_id":1007,"time_str":"20261020 11:00","group_name":"课程群","sender_name":"助教","message":[{"type":"text","data":{"text":"今天下午的课取消，DDL 推迟到周天"}}]}
+{"message_id":1008,"time_str":"20261020 11:20","group_name":"茶友群","sender_name":"老板","message":[{"type":"text","data":{"text":"本周有优惠"}}]}
+{"message_id":1009,"time_str":"20261020 12:01","group_name":"项目群","sender_name":"产品","message":[{"type":"text","data":{"text":"接口文档更新了，麻烦看下"}}]}
+{"message_id":1010,"time_str":"20261020 12:30","group_name":"项目群","sender_name":"客服小助手","message":[{"type":"text","data":{"text":"记得签到"}}]}
+{"message_id":1011,"time_str":"20261020 13:15","group_name":"班级通知群","sender_name":"辅导员","message":[{"type":"text","data":{"text":"周四下午签名确认，务必到场"}}]}
